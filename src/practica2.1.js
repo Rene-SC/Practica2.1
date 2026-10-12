@@ -5,7 +5,8 @@
 // PROYECTO                    : Practica 1 - Space Invaders terminado
 // AUTOR                       : Omar Alejandro Aguayo Sanchez, Rene Servin Cansino
 // FECHA DE ELABORACION        : 02/10/2026
-// VERSION                     : 2.1.0 
+// TIEMPO DE DESARROLLO        : 9 horas
+// VERSION                     : 2.0.12 
 //================================================================================
 import * as THREE from 'three';
 import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader.js';
